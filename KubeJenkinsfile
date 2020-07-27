@@ -1,4 +1,4 @@
 BuildMerge{
    platform = "java"
-   doDockerBuild = true
+   doDockerBuild = false
 }
