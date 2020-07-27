@@ -36,3 +36,14 @@ spring:
       enabled: true
       reload:
         enabled: true
+
+management:
+  metrics:
+    export:
+      wavefront:
+        uri: https://demo.wavefront.com
+        api-token: 400a1c6d-247f-46c9-acd7-53306b58525f
+
+wavefront:
+  freemiumAccount: false
+  freemium-account: false
