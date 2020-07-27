@@ -1,3 +1,4 @@
 BuildMerge{
    platform = "java"
+   doDockerBuild = true
 }
