@@ -1,4 +1,4 @@
 BuildMerge{
    platform = "java"
-   doDockerBuild = false
+   build = "gradle"
 }
