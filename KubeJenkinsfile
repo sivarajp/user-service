@@ -1,4 +1,4 @@
-BuildMerge{
+BuildTBS{
    platform = "java"
    build = "gradle"
 }
